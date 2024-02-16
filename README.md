@@ -1,7 +1,6 @@
 # Password Manager Offline
 
 ## Instructions
-### MAIN.PY 
 Run the main.py file once. A message with instructions will be printed.
 In the main.py file there will be a function named first_start(). <br>
 The fuction will print a new personal secret key that you must save (**copy only what is between the quotes**. Ex: b' ___secretkey___ ' ). <br>
