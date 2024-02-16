@@ -1,1 +1,0 @@
-#Gestor de Passwords (Offline)
